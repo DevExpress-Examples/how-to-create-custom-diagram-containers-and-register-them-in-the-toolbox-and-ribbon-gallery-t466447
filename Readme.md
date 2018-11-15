@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[CustomContainers.xml](./CS/XtraDiagram.CreateCustomContainers/CustomContainers.xml) (VB: [CustomContainers.xml](./VB/XtraDiagram.CreateCustomContainers/CustomContainers.xml))**
+* [Form1.cs](./CS/XtraDiagram.CreateCustomContainers/Form1.cs) (VB: [Form1.vb](./VB/XtraDiagram.CreateCustomContainers/Form1.vb))
+<!-- default file list end -->
 # How to create custom diagram containers and register them in the toolbox and ribbon gallery
 
 
