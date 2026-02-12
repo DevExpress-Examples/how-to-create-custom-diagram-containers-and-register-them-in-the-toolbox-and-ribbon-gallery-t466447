@@ -23,7 +23,7 @@ In this example, we show how to create containers with custom headers and paddi
 
 
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=how-to-create-custom-diagram-containers-and-register-them-in-the-toolbox-and-ribbon-gallery-t466447&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=how-to-create-custom-diagram-containers-and-register-them-in-the-toolbox-and-ribbon-gallery-t466447&~~~was_helpful=no)
 
